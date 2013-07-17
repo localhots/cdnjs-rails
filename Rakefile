@@ -22,10 +22,10 @@ namespace :cdnjs do
       }
     end.inject(:merge)
 
-    # Format JSON for better diffs and smaller patches
+    # Pretty format JSON for better diffs and smaller patches
     json = MultiJson.dump(data, :pretty => true)
 
-    File.open(file_path, 'wb') do |file|
+    File.open file_path, 'wb' do |file|
       file.write json
       file.close
     end

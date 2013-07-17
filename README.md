@@ -1,24 +1,46 @@
-# Cdnjs::Rails
+# [cdnjs](http://cdnjs.com) helpers for Rails apps
 
-TODO: Write a gem description
+This gem adds view helpers to Ruby on Rails applications that embed javascripts
+and stylesheets directly from [cdnjs](http://cdnjs.com)
 
 ## Installation
 
 Add this line to your application's Gemfile:
-
-    gem 'cdnjs-rails'
+```ruby
+gem 'cdnjs-rails'
+```
 
 And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install cdnjs-rails
+```
+$ bundle
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+From view files
+```
+<html>
+<head>
+  <title>Hello World!</title>
+  <%= stylesheet_cdnjs_tag 'normalize' %>
+</head>
+<body>
+  <%= yield %>
+  <%= javascript_cdnjs_tag 'jquery', version: '2.0.3', protocol: 'https' %>
+</body>
+</html>
+```
+
+From anywhere in the app
+```ruby
+CdnjsRails.package_url('chosen', v: '0.9.10', proto: 'http')
+```
+
+## Options
+
+`version` (aliases: `ver`, `v`): package version, latest by default
+
+`protocol` (alias: `proto`): url protocol, relative by default
 
 ## Contributing
 
