@@ -1,0 +1,3806 @@
+{
+  "1140": {
+    "filename": "1140.css",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0"
+    ]
+  },
+  "960gs": {
+    "filename": "960.css",
+    "latest_version": "0",
+    "versions": [
+      "0"
+    ]
+  },
+  "Colors.js": {
+    "filename": "colors.min.js",
+    "latest_version": "1.2.1",
+    "versions": [
+      "1.2.1",
+      "1.2"
+    ]
+  },
+  "Cookies.js": {
+    "filename": "cookies.min.js",
+    "latest_version": "0.3.1",
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "EaselJS": {
+    "filename": "easeljs.min.js",
+    "latest_version": "0.6.1",
+    "versions": [
+      "0.6.1"
+    ]
+  },
+  "FitText.js": {
+    "filename": "jquery.fittext.min.js",
+    "latest_version": "1.1",
+    "versions": [
+      "1.1"
+    ]
+  },
+  "ICanHaz.js": {
+    "filename": "ICanHaz.min.js",
+    "latest_version": "0.10",
+    "versions": [
+      "0.10",
+      "0.9"
+    ]
+  },
+  "Kalendae": {
+    "filename": "kalendae.standalone.min.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1"
+    ]
+  },
+  "PreloadJS": {
+    "filename": "preloadjs.min.js",
+    "latest_version": "0.3.1",
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "ResponsiveSlides.js": {
+    "filename": "responsiveslides.min.js",
+    "latest_version": "1.53",
+    "versions": [
+      "1.53",
+      "1.32"
+    ]
+  },
+  "SoundJS": {
+    "filename": "soundjs.min.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1"
+    ]
+  },
+  "SyntaxHighlighter": {
+    "filename": "scripts/shCore.js",
+    "latest_version": "3.0.83",
+    "versions": [
+      "3.0.83"
+    ]
+  },
+  "URI.js": {
+    "filename": "URI.min.js",
+    "latest_version": "1.7.2",
+    "versions": [
+      "1.7.2"
+    ]
+  },
+  "accounting.js": {
+    "filename": "accounting.min.js",
+    "latest_version": "0.3.2",
+    "versions": [
+      "0.3.2"
+    ]
+  },
+  "ace": {
+    "filename": "ace.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "aight": {
+    "filename": "aight.min.js",
+    "latest_version": "1.1.1",
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "alertify.js": {
+    "filename": "alertify.min.js",
+    "latest_version": "0.3.10",
+    "versions": [
+      "0.3.10"
+    ]
+  },
+  "alloy-ui": {
+    "filename": "aui-min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "amplifyjs": {
+    "filename": "amplify.min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "angular-strap": {
+    "filename": "angular-strap.min.js",
+    "latest_version": "0.7.4",
+    "versions": [
+      "0.7.4",
+      "0.7.3",
+      "0.7.2",
+      "0.7.1",
+      "0.7.0",
+      "0.6.6"
+    ]
+  },
+  "angular-ui": {
+    "filename": "angular-ui.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0"
+    ]
+  },
+  "angular-ui-bootstrap": {
+    "filename": "ui-bootstrap-tpls.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0",
+      "0.3.0",
+      "0.2.0"
+    ]
+  },
+  "angular-ui-router": {
+    "filename": "angular-ui-router.min.js",
+    "latest_version": "0.0.1",
+    "versions": [
+      "0.0.1"
+    ]
+  },
+  "angular.js": {
+    "filename": "angular.min.js",
+    "latest_version": "1.1.5",
+    "versions": [
+      "1.1.5",
+      "1.1.4",
+      "1.1.3",
+      "1.1.1",
+      "1.0.0rc6",
+      "1.0.7",
+      "1.0.6",
+      "1.0.5",
+      "1.0.3",
+      "1.0.2",
+      "1.0.1",
+      "1.0.0"
+    ]
+  },
+  "angularFire": {
+    "filename": "angularfire.min.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0",
+      "0.1.0"
+    ]
+  },
+  "anythingslider": {
+    "filename": "jquery.anythingslider.min.js",
+    "latest_version": "1.9.1",
+    "versions": [
+      "1.9.1",
+      "1.9.0",
+      "1.8.17"
+    ]
+  },
+  "async": {
+    "filename": "async.min.js",
+    "latest_version": "0.2.7",
+    "versions": [
+      "1.22",
+      "0.2.7"
+    ]
+  },
+  "augment.js": {
+    "filename": "augment.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0",
+      "0.4.2",
+      "0.4.0",
+      "0.3.0"
+    ]
+  },
+  "aui": {
+    "filename": "js/aui-all.min.js",
+    "latest_version": "5.2-m6",
+    "versions": [
+      "5.2-m6"
+    ]
+  },
+  "authy-forms.css": {
+    "filename": "form.authy.min.css",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0"
+    ]
+  },
+  "autosize.js": {
+    "filename": "autosize-min.js",
+    "latest_version": "1.17.1",
+    "versions": [
+      "1.17.1"
+    ]
+  },
+  "backbone-associations": {
+    "filename": "backbone-associations-min.js",
+    "latest_version": "0.5.0",
+    "versions": [
+      "0.5.0"
+    ]
+  },
+  "backbone-forms": {
+    "filename": "backbone-forms.min.js",
+    "latest_version": "0.12.0",
+    "versions": [
+      "0.12.0"
+    ]
+  },
+  "backbone-localstorage.js": {
+    "filename": "backbone.localStorage-min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0",
+      "1.0"
+    ]
+  },
+  "backbone-pageable": {
+    "filename": "backbone-pageable.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1",
+      "1.3.0",
+      "1.2.4",
+      "1.2.3",
+      "1.2.2",
+      "1.2.1",
+      "1.2.0",
+      "1.1.8",
+      "1.1.7",
+      "1.1.6"
+    ]
+  },
+  "backbone-relational": {
+    "filename": "backbone-relational.min.js",
+    "latest_version": "0.8.5",
+    "versions": [
+      "0.8.5",
+      "0.7.0"
+    ]
+  },
+  "backbone.eventbinder": {
+    "filename": "backbone.eventbinder.min.js",
+    "latest_version": "0.1.0",
+    "versions": [
+      "0.1.0"
+    ]
+  },
+  "backbone.fetch-cache": {
+    "filename": "backbone.fetch-cache.min.js",
+    "latest_version": "0.1.9",
+    "versions": [
+      "0.1.9"
+    ]
+  },
+  "backbone.js": {
+    "filename": "backbone-min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0",
+      "0.9.10",
+      "0.9.9-amdjs",
+      "0.9.9",
+      "0.9.2-amdjs",
+      "0.9.2",
+      "0.9.1-amdjs",
+      "0.9.1",
+      "0.9.0",
+      "0.5.3",
+      "0.5.2",
+      "0.5.1",
+      "0.5.0",
+      "0.5",
+      "0.3.3"
+    ]
+  },
+  "backbone.layoutmanager": {
+    "filename": "backbone.layoutmanager.min.js",
+    "latest_version": "0.8.8",
+    "versions": [
+      "0.8.8",
+      "0.8.5",
+      "0.8.4",
+      "0.8.2",
+      "0.8.1"
+    ]
+  },
+  "backbone.marionette": {
+    "filename": "backbone.marionette.min.js",
+    "latest_version": "1.0.4-bundled",
+    "versions": [
+      "1.0.4-bundled",
+      "1.0.3-bundled",
+      "1.0.1-bundled",
+      "1.0.0-rc6-bundled",
+      "1.0.0-rc4-bundled",
+      "1.0.0-rc2-amdjs",
+      "1.0.0-rc2",
+      "0.10.2"
+    ]
+  },
+  "backbone.modelbinder": {
+    "filename": "Backbone.ModelBinder.min.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2",
+      "0.1.6",
+      "0.1.5",
+      "0.1.3"
+    ]
+  },
+  "backbone.paginator": {
+    "filename": "backbone.paginator.min.js",
+    "latest_version": "0.8",
+    "versions": [
+      "0.154",
+      "0.8",
+      "0.7",
+      "0.6",
+      "0.5"
+    ]
+  },
+  "backbone.routefilter": {
+    "filename": "backbone.routefilter.min.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "backbone.syphon": {
+    "filename": "backbone.syphon.min.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1",
+      "0.3.0"
+    ]
+  },
+  "backbone.validation": {
+    "filename": "backbone-validation-min.js",
+    "latest_version": "0.7.1",
+    "versions": [
+      "0.7.1",
+      "0.7.0-amdjs",
+      "0.7.0",
+      "0.6.2-amdjs",
+      "0.6.2"
+    ]
+  },
+  "backbone.wreqr": {
+    "filename": "backbone.wreqr.min.js",
+    "latest_version": "0.1.0",
+    "versions": [
+      "0.1.0-amdjs",
+      "0.1.0",
+      "0.0.0"
+    ]
+  },
+  "bacon.js": {
+    "filename": "Bacon.min.js",
+    "latest_version": "0.6.1",
+    "versions": [
+      "0.6.1",
+      "0.4.2",
+      "0.4.1",
+      "0.3.15",
+      "0.3.5",
+      "0.3.0"
+    ]
+  },
+  "barman": {
+    "filename": "barman.min.js",
+    "latest_version": "0.3.0",
+    "versions": [
+      "0.3.0",
+      "0.2.4",
+      "0.2.2"
+    ]
+  },
+  "bean": {
+    "filename": "bean.min.js",
+    "latest_version": "1.0.3",
+    "versions": [
+      "1.0.3"
+    ]
+  },
+  "benchmark": {
+    "filename": "benchmark.min.js",
+    "latest_version": "0.3.0",
+    "versions": [
+      "0.3.0"
+    ]
+  },
+  "bespoke.js": {
+    "filename": "bespoke.min.js",
+    "latest_version": "0.2.1",
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "blanket.js": {
+    "filename": "blanket.min.js",
+    "latest_version": "1.1.4",
+    "versions": [
+      "1.1.4"
+    ]
+  },
+  "bonsai": {
+    "filename": "bonsai.min.js",
+    "latest_version": "0.4.3",
+    "versions": [
+      "0.4.3",
+      "0.4.2",
+      "0.4.1",
+      "0.4.0",
+      "0.4",
+      "0.3.8",
+      "0.3.7",
+      "0.3.6",
+      "0.3.5",
+      "0.3.4",
+      "0.3.3",
+      "0.3.2",
+      "0.3.1",
+      "0.3.0",
+      "0.3",
+      "0.2.0",
+      "0.2"
+    ]
+  },
+  "bootstrap-datepicker": {
+    "filename": "js/bootstrap-datepicker.min.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2",
+      "1.0.0"
+    ]
+  },
+  "bootstrap-datetimepicker": {
+    "filename": "js/bootstrap-datetimepicker.min.js",
+    "latest_version": "0.0.11",
+    "versions": [
+      "0.0.11"
+    ]
+  },
+  "bootstrap-growl": {
+    "filename": "jquery.bootstrap-growl.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "bootstrap-lightbox": {
+    "filename": "bootstrap-lightbox.js",
+    "latest_version": "0.6",
+    "versions": [
+      "0.6",
+      "0.5",
+      "0.4",
+      "0.3"
+    ]
+  },
+  "bootstrap-modal": {
+    "filename": "bootstrap-modal.pack.js",
+    "latest_version": "2.1.0",
+    "versions": [
+      "2.1.0"
+    ]
+  },
+  "bootstrap-switch": {
+    "filename": "bootstrap-switch.min.js",
+    "latest_version": "1.4",
+    "versions": [
+      "1.4",
+      "1.3"
+    ]
+  },
+  "bootstrap-tour": {
+    "filename": "js/bootstrap-tour.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0",
+      "0.2.0"
+    ]
+  },
+  "breezejs": {
+    "filename": "breeze.min.js",
+    "latest_version": "1.2.5",
+    "versions": [
+      "1.2.5"
+    ]
+  },
+  "camanjs": {
+    "filename": "caman.full.min.js",
+    "latest_version": "4.1.1",
+    "versions": [
+      "4.1.1",
+      "4.0.0",
+      "3.3.0",
+      "3.2.2",
+      "3.2",
+      "3.1.1",
+      "3.1.0",
+      "2.2",
+      "2.1.3",
+      "2.1.1",
+      "2.1",
+      "2.0"
+    ]
+  },
+  "can.js": {
+    "filename": "can.jquery.min.js",
+    "latest_version": "1.1.3",
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "cannon.js": {
+    "filename": "cannon.min.js",
+    "latest_version": "0.5.0",
+    "versions": [
+      "0.5.0",
+      "0.4.3"
+    ]
+  },
+  "chainvas": {
+    "filename": "chainvas.js",
+    "latest_version": "2.1",
+    "versions": [
+      "2.1"
+    ]
+  },
+  "chardin.js": {
+    "filename": "chardinjs.min.js",
+    "latest_version": "0.1.2",
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "chosen": {
+    "filename": "chosen.jquery.min.js",
+    "latest_version": "0.9.15",
+    "versions": [
+      "0.9.15",
+      "0.9.14",
+      "0.9.12",
+      "0.9.11",
+      "0.9.10",
+      "0.9.9",
+      "0.9.8"
+    ]
+  },
+  "chrome-frame": {
+    "filename": "CFInstall.min.js",
+    "latest_version": "1.0.3",
+    "versions": [
+      "1.0.3",
+      "1.0.2"
+    ]
+  },
+  "ckeditor": {
+    "filename": "ckeditor.js",
+    "latest_version": "4.0.1",
+    "versions": [
+      "4.0.1"
+    ]
+  },
+  "clientside-haml-js": {
+    "filename": "haml.min.js",
+    "latest_version": "5.1",
+    "versions": [
+      "5.1"
+    ]
+  },
+  "codemirror": {
+    "filename": "codemirror.min.js",
+    "latest_version": "3.12.0",
+    "versions": [
+      "3.12.0",
+      "2.36.0"
+    ]
+  },
+  "coffee-script": {
+    "filename": "coffee-script.min.js",
+    "latest_version": "1.6.3",
+    "versions": [
+      "1.6.3",
+      "1.6.2",
+      "1.4.0",
+      "1.3.3",
+      "1.3.1",
+      "1.2.0",
+      "1.1.2"
+    ]
+  },
+  "conditionizr.js": {
+    "filename": "conditionizr.min.js",
+    "latest_version": "3.0.0",
+    "versions": [
+      "3.0.0",
+      "2.2.0",
+      "2.1.1",
+      "2.1.0"
+    ]
+  },
+  "cookiejar": {
+    "filename": "cookiejar.js",
+    "latest_version": "0.5",
+    "versions": [
+      "0.5"
+    ]
+  },
+  "crafty": {
+    "filename": "crafty-min.js",
+    "latest_version": "0.5.3",
+    "versions": [
+      "0.5.3",
+      "0.4.9"
+    ]
+  },
+  "crossfilter": {
+    "filename": "crossfilter.min.js",
+    "latest_version": "1.1.3",
+    "versions": [
+      "1.1.3"
+    ]
+  },
+  "crossroads": {
+    "filename": "crossroads.min.js",
+    "latest_version": "0.11.0",
+    "versions": [
+      "0.11.0"
+    ]
+  },
+  "css3finalize": {
+    "filename": "jquery.css3finalize.min.js",
+    "latest_version": "3.4.0",
+    "versions": [
+      "3.4.0",
+      "3.3",
+      "3.2",
+      "3.1",
+      "3.0",
+      "2.5",
+      "2.4",
+      "2.1",
+      "2.0",
+      "1.45",
+      "1.43",
+      "1.40",
+      "1.39",
+      "1.37"
+    ]
+  },
+  "css3pie": {
+    "filename": "PIE.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0beta5",
+      "1.0.0"
+    ]
+  },
+  "cubism": {
+    "filename": "cubism.v1.min.js",
+    "latest_version": "1.2.2",
+    "versions": [
+      "1.2.2"
+    ]
+  },
+  "cufon": {
+    "filename": "cufon-yui.js",
+    "latest_version": "1.09i",
+    "versions": [
+      "1.09i"
+    ]
+  },
+  "curl": {
+    "filename": "curl-for-jQuery/curl.js",
+    "latest_version": "0.7.3",
+    "versions": [
+      "0.7.3"
+    ]
+  },
+  "d3": {
+    "filename": "d3.v3.min.js",
+    "latest_version": "3.2.2",
+    "versions": [
+      "3.2.2",
+      "3.1.6",
+      "3.0.8",
+      "3.0.1",
+      "2.10.0",
+      "2.8.1",
+      "2.7.4"
+    ]
+  },
+  "dancer.js": {
+    "filename": "dancer.min.js",
+    "latest_version": "0.3.1",
+    "versions": [
+      "0.3.1",
+      "0.3.0",
+      "0.2.1",
+      "0.2.0",
+      "0.1.0"
+    ]
+  },
+  "dat-gui": {
+    "filename": "dat.gui.min.js",
+    "latest_version": "0.5",
+    "versions": [
+      "0.5"
+    ]
+  },
+  "datatables": {
+    "filename": "jquery.dataTables.min.js",
+    "latest_version": "1.9.4",
+    "versions": [
+      "1.9.4",
+      "1.9.3",
+      "1.9.2"
+    ]
+  },
+  "datatables-fixedheader": {
+    "filename": "FixedHeader.min.js",
+    "latest_version": "2.0.6",
+    "versions": [
+      "2.0.6"
+    ]
+  },
+  "datatables-tabletools": {
+    "filename": "js/TableTools.min.js",
+    "latest_version": "2.1.4",
+    "versions": [
+      "2.1.4"
+    ]
+  },
+  "datejs": {
+    "filename": "date.min.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "davis.js": {
+    "filename": "davis.min.js",
+    "latest_version": "0.9.5",
+    "versions": [
+      "0.9.5",
+      "0.7.0",
+      "0.5.1"
+    ]
+  },
+  "dc": {
+    "filename": "dc.min.js",
+    "latest_version": "1.3.0",
+    "versions": [
+      "1.3.0"
+    ]
+  },
+  "dd_belatedpng": {
+    "filename": "dd_belatedpng.min.js",
+    "latest_version": "0.0.8",
+    "versions": [
+      "0.0.8"
+    ]
+  },
+  "diff_match_patch": {
+    "filename": "diff_match_patch.js",
+    "latest_version": "20121119",
+    "versions": [
+      "20121119"
+    ]
+  },
+  "documentup": {
+    "filename": "documentup.min.js",
+    "latest_version": "0.1.1",
+    "versions": [
+      "latest.min.js",
+      "latest.js",
+      "0.1.1",
+      "0.1.0"
+    ]
+  },
+  "dojo": {
+    "filename": "dojo.js",
+    "latest_version": "1.8.1",
+    "versions": [
+      "1.8.1",
+      "1.7.2",
+      "1.6.0"
+    ]
+  },
+  "dollar.js": {
+    "filename": "dollar.min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "draggabilly": {
+    "filename": "draggabilly.pkgd.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "dropbox.js": {
+    "filename": "dropbox.min.js",
+    "latest_version": "0.10.0",
+    "versions": [
+      "0.10.0",
+      "0.9.2",
+      "0.9.1",
+      "0.9.0",
+      "0.8.2",
+      "0.8.1",
+      "0.8.0",
+      "0.7.2",
+      "0.7.1",
+      "0.7.0",
+      "0.6.3",
+      "0.6.2",
+      "0.6.1",
+      "0.6.0",
+      "0.5.0"
+    ]
+  },
+  "dropzone": {
+    "filename": "dropzone.min.js",
+    "latest_version": "2.0.8",
+    "versions": [
+      "2.0.8",
+      "2.0.4",
+      "1.3.4"
+    ]
+  },
+  "dustjs-linkedin": {
+    "filename": "dust-core.min.js",
+    "latest_version": "1.2.3",
+    "versions": [
+      "1.2.3",
+      "1.2.0"
+    ]
+  },
+  "dygraph": {
+    "filename": "dygraph-combined.js",
+    "latest_version": "1.2",
+    "versions": [
+      "1.2"
+    ]
+  },
+  "easyXDM": {
+    "filename": "easyXDM.min.js",
+    "latest_version": "2.4.17.1",
+    "versions": [
+      "2.4.17.1"
+    ]
+  },
+  "eldarion-ajax": {
+    "filename": "eldarion-ajax.min.js",
+    "latest_version": "0.7.0",
+    "versions": [
+      "0.7.0"
+    ]
+  },
+  "embedly-jquery": {
+    "filename": "jquery.embedly.min.js",
+    "latest_version": "3.1.1",
+    "versions": [
+      "3.1.1",
+      "3.0.5",
+      "3.0.2",
+      "3.0.1",
+      "3.0.0",
+      "2.2.0"
+    ]
+  },
+  "ember-data-django-rest-adapter": {
+    "filename": "ember-data-django-rest-adapter.min.js",
+    "latest_version": "0.13",
+    "versions": [
+      "0.13"
+    ]
+  },
+  "ember-data.js": {
+    "filename": "ember-data-latest.min.js",
+    "latest_version": "0.13.0",
+    "versions": [
+      "0.13.0",
+      "0.8.0-latest20121123"
+    ]
+  },
+  "ember-resource.js": {
+    "filename": "ember-resource.min.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "ember.js": {
+    "filename": "ember.min.js",
+    "latest_version": "1.0.0-rc.6",
+    "versions": [
+      "1.0.pre",
+      "1.0.0-rc.6",
+      "1.0.0-rc.4",
+      "1.0.0-rc.3",
+      "1.0.0-rc.2",
+      "1.0.0-rc.1",
+      "1.0.0-pre.4",
+      "1.0.0-pre.2",
+      "0.9.8.1",
+      "0.9.8",
+      "0.9.7.1",
+      "0.9.7",
+      "0.9.6",
+      "0.9.5",
+      "0.9.4"
+    ]
+  },
+  "enquire.js": {
+    "filename": "enquire.min.js",
+    "latest_version": "2.0.0",
+    "versions": [
+      "2.0.0",
+      "1.5.6",
+      "1.5.4"
+    ]
+  },
+  "epiceditor": {
+    "filename": "js/epiceditor.min.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "epitome": {
+    "filename": "Epitome-min.js",
+    "latest_version": "0.3.0",
+    "versions": [
+      "0.3.0",
+      "0.2.2",
+      "0.2.0"
+    ]
+  },
+  "equalize.js": {
+    "filename": "equalize.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "es5-shim": {
+    "filename": "es5-shim.min.js",
+    "latest_version": "2.0.8",
+    "versions": [
+      "2.0.8",
+      "1.2.4",
+      "0.0.4"
+    ]
+  },
+  "eve.js": {
+    "filename": "eve.min.js",
+    "latest_version": "0.8.4",
+    "versions": [
+      "0.8.4",
+      "0.8.3",
+      "0.8.2",
+      "0.8.1"
+    ]
+  },
+  "eventmaster": {
+    "filename": "eventmaster.min.js",
+    "latest_version": "2.0.0",
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "ext-core": {
+    "filename": "ext-core.js",
+    "latest_version": "3.1.0",
+    "versions": [
+      "3.1.0"
+    ]
+  },
+  "extjs": {
+    "filename": "ext-all.js",
+    "latest_version": "3.4.1-1",
+    "versions": [
+      "3.4.1-1"
+    ]
+  },
+  "fabric.js": {
+    "filename": "fabric.all.min.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0",
+      "1.1.0"
+    ]
+  },
+  "fancybox": {
+    "filename": "jquery.fancybox.pack.js",
+    "latest_version": "2.1.4",
+    "versions": [
+      "2.1.4",
+      "2.1.3",
+      "2.1.1",
+      "2.0.6",
+      "2.0.5",
+      "2.0.4",
+      "1.3.4"
+    ]
+  },
+  "fastclick": {
+    "filename": "fastclick.min.js",
+    "latest_version": "0.6.7",
+    "versions": [
+      "0.6.7",
+      "0.6.0"
+    ]
+  },
+  "file-uploader": {
+    "filename": "fineuploader.min.js",
+    "latest_version": "3.1.1",
+    "versions": [
+      "3.1.1",
+      "2.1.2"
+    ]
+  },
+  "fingerprintjs": {
+    "filename": "fingerprint.min.js",
+    "latest_version": "v0.2.0",
+    "versions": [
+      "v0.2.0"
+    ]
+  },
+  "firebug-lite": {
+    "filename": "firebug-lite.js",
+    "latest_version": "1.4.0",
+    "versions": [
+      "1.4.0"
+    ]
+  },
+  "fitvids": {
+    "filename": "jquery.fitvids.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1",
+      "1.0.0"
+    ]
+  },
+  "flexie": {
+    "filename": "flexie.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "flexslider": {
+    "filename": "jquery.flexslider-min.js",
+    "latest_version": "2.1",
+    "versions": [
+      "2.1"
+    ]
+  },
+  "flight": {
+    "filename": "flight.min.js",
+    "latest_version": "1.0.9",
+    "versions": [
+      "1.0.9"
+    ]
+  },
+  "flipCounter": {
+    "filename": "jquery.flipCounter.pack.js",
+    "latest_version": "1.2",
+    "versions": [
+      "1.2",
+      "1.1",
+      "1.0"
+    ]
+  },
+  "flot": {
+    "filename": "jquery.flot.min.js",
+    "latest_version": "0.8.1",
+    "versions": [
+      "0.8.1",
+      "0.8",
+      "0.7"
+    ]
+  },
+  "font-awesome": {
+    "filename": "css/font-awesome.min.css",
+    "latest_version": "3.2.1",
+    "versions": [
+      "3.2.1",
+      "3.2.0",
+      "3.1.1",
+      "3.1.0",
+      "3.0.2",
+      "3.0.0",
+      "2.0"
+    ]
+  },
+  "foundation": {
+    "filename": "js/foundation.min.js",
+    "latest_version": "4.1.6",
+    "versions": [
+      "4.1.6",
+      "4.1.2",
+      "4.0.9",
+      "4.0.8",
+      "4.0.5",
+      "4.0.4",
+      "3.2.5",
+      "3.2.2"
+    ]
+  },
+  "foundicons": {
+    "filename": "fonts/general_foundicons.ttf",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0"
+    ]
+  },
+  "fullcalendar": {
+    "filename": "fullcalendar.min.js",
+    "latest_version": "1.6.1",
+    "versions": [
+      "1.6.1",
+      "1.6.0"
+    ]
+  },
+  "galleria": {
+    "filename": "galleria.min.js",
+    "latest_version": "1.2.9",
+    "versions": [
+      "1.2.9",
+      "1.2.8",
+      "1.2.7",
+      "1.2.6",
+      "1.2.3",
+      "1"
+    ]
+  },
+  "galleriffic": {
+    "filename": "jquery.galleriffic.min.js",
+    "latest_version": "2.0.1",
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "garlic.js": {
+    "filename": "garlic.min.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0",
+      "0.0.1"
+    ]
+  },
+  "gas": {
+    "filename": "gas.min.js",
+    "latest_version": "1.10.1",
+    "versions": [
+      "1.10.1"
+    ]
+  },
+  "geo-location-javascript": {
+    "filename": "geo-min.js",
+    "latest_version": "0.4.8",
+    "versions": [
+      "0.4.8"
+    ]
+  },
+  "geocomplete": {
+    "filename": "jquery.geocomplete.min.js",
+    "latest_version": "1.4",
+    "versions": [
+      "1.4",
+      "1.3"
+    ]
+  },
+  "gmaps.js": {
+    "filename": "gmaps.min.js",
+    "latest_version": "0.3",
+    "versions": [
+      "0.3",
+      "0.2.30",
+      "0.2.27"
+    ]
+  },
+  "gmaps4rails": {
+    "filename": "gmaps4rails.googlemaps.js",
+    "latest_version": "1.5.2",
+    "versions": [
+      "1.5.2"
+    ]
+  },
+  "graphael": {
+    "filename": "g.raphael-min.js",
+    "latest_version": "0.5.1",
+    "versions": [
+      "0.5.1",
+      "0.5.0",
+      "0.4.1"
+    ]
+  },
+  "gsap": {
+    "filename": "TweenMax.min.js",
+    "latest_version": "1.10.1",
+    "versions": [
+      "latest",
+      "1.10.1",
+      "1.10.0",
+      "1.9.8",
+      "1.9.7",
+      "1.9.6",
+      "1.9.5",
+      "1.9.4",
+      "1.9.3",
+      "1.9.2",
+      "1.9.1",
+      "1.9.0",
+      "1.8.4",
+      "1.8.3",
+      "1.8.2",
+      "1.8.1"
+    ]
+  },
+  "h5Validate": {
+    "filename": "jquery.h5validate.min.js",
+    "latest_version": "0.8.4",
+    "versions": [
+      "0.8.4"
+    ]
+  },
+  "hallo.js": {
+    "filename": "hallo.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "hammer.js": {
+    "filename": "hammer.min.js",
+    "latest_version": "1.0.5",
+    "versions": [
+      "1.0.5",
+      "1.0.3",
+      "0.6.4"
+    ]
+  },
+  "handlebars.js": {
+    "filename": "handlebars.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.rc.2",
+      "1.0.rc.1",
+      "1.0.0.beta6",
+      "1.0.0.beta2",
+      "1.0.0-rc.4",
+      "1.0.0-rc.3",
+      "1.0.0"
+    ]
+  },
+  "hashgrid": {
+    "filename": "hashgrid.js",
+    "latest_version": "6",
+    "versions": [
+      "6"
+    ]
+  },
+  "headjs": {
+    "filename": "head.min.js",
+    "latest_version": "0.99",
+    "versions": [
+      "0.99",
+      "0.98",
+      "0.97a",
+      "0.96",
+      "0.9"
+    ]
+  },
+  "highcharts": {
+    "filename": "highcharts.js",
+    "latest_version": "3.0.2",
+    "versions": [
+      "3.0.2",
+      "2.3.5",
+      "2.3.1",
+      "2.2.5",
+      "2.2.4",
+      "2.2.3",
+      "2.2.2",
+      "2.2.1",
+      "2.2.0",
+      "2.1.6",
+      "2.1.5"
+    ]
+  },
+  "highlight.js": {
+    "filename": "highlight.min.js",
+    "latest_version": "7.3",
+    "versions": [
+      "7.3"
+    ]
+  },
+  "hinclude": {
+    "filename": "hinclude.min.js",
+    "latest_version": "0.9.5",
+    "versions": [
+      "0.9.5",
+      "0.9.1"
+    ]
+  },
+  "history.js": {
+    "filename": "native.history.min.js",
+    "latest_version": "1.8",
+    "versions": [
+      "1.8",
+      "1.7.1"
+    ]
+  },
+  "hogan.js": {
+    "filename": "hogan.js",
+    "latest_version": "2.0.0",
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "holder": {
+    "filename": "holder.js",
+    "latest_version": "1.9.0",
+    "versions": [
+      "1.9.0"
+    ]
+  },
+  "html-inspector": {
+    "filename": "html-inspector.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1",
+      "0.4.0",
+      "0.3.0"
+    ]
+  },
+  "html2canvas": {
+    "filename": "html2canvas.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0"
+    ]
+  },
+  "html5shiv": {
+    "filename": "html5shiv.js",
+    "latest_version": "3.6.2",
+    "versions": [
+      "r29",
+      "r23",
+      "3.6.2pre",
+      "3.6.2",
+      "3.6.1",
+      "3.6"
+    ]
+  },
+  "humane-js": {
+    "filename": "humane.min.js",
+    "latest_version": "3.0.6",
+    "versions": [
+      "3.0.6",
+      "3.0.5"
+    ]
+  },
+  "hydra.js": {
+    "filename": "hydra.min.js",
+    "latest_version": "3.1.3",
+    "versions": [
+      "3.1.3",
+      "3.1.2"
+    ]
+  },
+  "i18next": {
+    "filename": "i18next-1.6.3.min.js",
+    "latest_version": "1.6.3",
+    "versions": [
+      "1.6.3"
+    ]
+  },
+  "idbwrapper": {
+    "filename": "idbstore.min.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0",
+      "1.1.0",
+      "1.0.0"
+    ]
+  },
+  "imgareaselect": {
+    "filename": "js/jquery.imgareaselect.min.js",
+    "latest_version": "0.9.10",
+    "versions": [
+      "0.9.10"
+    ]
+  },
+  "impress.js": {
+    "filename": "impress.min.js",
+    "latest_version": "0.5.3",
+    "versions": [
+      "0.5.3"
+    ]
+  },
+  "intro.js": {
+    "filename": "intro.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0",
+      "0.2.1"
+    ]
+  },
+  "jScrollPane": {
+    "filename": "jquery.jscrollpane.min.js",
+    "latest_version": "2.0.14",
+    "versions": [
+      "2.0.0beta12",
+      "2.0.14"
+    ]
+  },
+  "jStorage": {
+    "filename": "jstorage.min.js",
+    "latest_version": "0.3.0",
+    "versions": [
+      "0.3.0",
+      "0.1.6.1"
+    ]
+  },
+  "jade": {
+    "filename": "jade.min.js",
+    "latest_version": "0.27.7",
+    "versions": [
+      "0.27.7"
+    ]
+  },
+  "jasmine": {
+    "filename": "jasmine.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1"
+    ]
+  },
+  "jasny-bootstrap": {
+    "filename": "jasny-bootstrap.min.js",
+    "latest_version": "2.3.0-j5",
+    "versions": [
+      "2.3.0-j5"
+    ]
+  },
+  "javascript-state-machine": {
+    "filename": "state-machine.min.js",
+    "latest_version": "2.0.0",
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "jeditable.js": {
+    "filename": "jeditable.min.js",
+    "latest_version": "1.7.3",
+    "versions": [
+      "1.7.3"
+    ]
+  },
+  "jo": {
+    "filename": "jo.min.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1"
+    ]
+  },
+  "joopl": {
+    "filename": "joopl.min.js",
+    "latest_version": "2.3.0",
+    "versions": [
+      "2.3.0",
+      "2.2.0"
+    ]
+  },
+  "jplayer": {
+    "filename": "jquery.jplayer.min.js",
+    "latest_version": "2.4.0",
+    "versions": [
+      "2.4.0",
+      "2.3.0",
+      "2.2.0"
+    ]
+  },
+  "jq-console": {
+    "filename": "jqconsole.min.js",
+    "latest_version": "2.7.7",
+    "versions": [
+      "2.7.7"
+    ]
+  },
+  "jqModal": {
+    "filename": "jqModal.js",
+    "latest_version": "r14",
+    "versions": [
+      "r14"
+    ]
+  },
+  "jqcloud": {
+    "filename": "jqcloud-1.0.4.min.js",
+    "latest_version": "1.0.4",
+    "versions": [
+      "1.0.4",
+      "1.0.3"
+    ]
+  },
+  "jquery": {
+    "filename": "jquery.min.js",
+    "latest_version": "2.0.3",
+    "versions": [
+      "2.0.3",
+      "2.0.2",
+      "2.0.1",
+      "2.0.0",
+      "1.10.2",
+      "1.10.1",
+      "1.10.0",
+      "1.9.1",
+      "1.9.0",
+      "1.8.3",
+      "1.8.2",
+      "1.8.1",
+      "1.8.0",
+      "1.7.2",
+      "1.7.1",
+      "1.7",
+      "1.6.4",
+      "1.6.2",
+      "1.6.1",
+      "1.4.4",
+      "1.4.3",
+      "1.4.2",
+      "1.4.1",
+      "1.4.0",
+      "1.3.2",
+      "1.3.1",
+      "1.3.0",
+      "1.2.6",
+      "1.2.3"
+    ]
+  },
+  "jquery-ajaxtransport-xdomainrequest": {
+    "filename": "jquery.xdomainrequest.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "jquery-backstretch": {
+    "filename": "jquery.backstretch.min.js",
+    "latest_version": "2.0.4",
+    "versions": [
+      "2.0.4",
+      "2.0.3"
+    ]
+  },
+  "jquery-color": {
+    "filename": "jquery.color.min.js",
+    "latest_version": "2.1.2",
+    "versions": [
+      "2.1.2",
+      "2.1.1"
+    ]
+  },
+  "jquery-cookie": {
+    "filename": "jquery.cookie.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1",
+      "1.2"
+    ]
+  },
+  "jquery-countdown": {
+    "filename": "jquery.countdown.min.js",
+    "latest_version": "1.6.1",
+    "versions": [
+      "1.6.1",
+      "1.6.0"
+    ]
+  },
+  "jquery-easing": {
+    "filename": "jquery.easing.min.js",
+    "latest_version": "1.3",
+    "versions": [
+      "1.3"
+    ]
+  },
+  "jquery-footable": {
+    "filename": "js/footable.min.js",
+    "latest_version": "0.1.0",
+    "versions": [
+      "0.1.0"
+    ]
+  },
+  "jquery-gamequery": {
+    "filename": "jquery.gamequery.min.js",
+    "latest_version": "0.7.0",
+    "versions": [
+      "0.7.0",
+      "0.6.2"
+    ]
+  },
+  "jquery-hashchange": {
+    "filename": "jquery.ba-hashchange.min.js",
+    "latest_version": "v1.3",
+    "versions": [
+      "v1.3"
+    ]
+  },
+  "jquery-history": {
+    "filename": "jquery.history.min.js",
+    "latest_version": "1.9",
+    "versions": [
+      "1.9"
+    ]
+  },
+  "jquery-infinitescroll": {
+    "filename": "jquery.infinitescroll.min.js",
+    "latest_version": "2.0b2.110713",
+    "versions": [
+      "2.0b2.110713"
+    ]
+  },
+  "jquery-instagram": {
+    "filename": "jquery.instagram.js",
+    "latest_version": "0.2.2",
+    "versions": [
+      "0.2.2"
+    ]
+  },
+  "jquery-jcrop": {
+    "filename": "js/jquery.Jcrop.min.js",
+    "latest_version": "0.9.12",
+    "versions": [
+      "0.9.12",
+      "0.9.10"
+    ]
+  },
+  "jquery-jgrowl": {
+    "filename": "jquery.jgrowl.min.js",
+    "latest_version": "1.2.12",
+    "versions": [
+      "1.2.12"
+    ]
+  },
+  "jquery-jkit": {
+    "filename": "jquery.jkit.min.js",
+    "latest_version": "1.1.8",
+    "versions": [
+      "1.1.8",
+      "1.1.6"
+    ]
+  },
+  "jquery-layout": {
+    "filename": "jquery.layout.min.js",
+    "latest_version": "1.3.0-rc-30.79",
+    "versions": [
+      "1.3.0-rc-30.79"
+    ]
+  },
+  "jquery-migrate": {
+    "filename": "jquery-migrate.min.js",
+    "latest_version": "1.2.1",
+    "versions": [
+      "1.2.1",
+      "1.1.1",
+      "1.1.0",
+      "1.0.0"
+    ]
+  },
+  "jquery-mobile": {
+    "filename": "jquery.mobile.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1",
+      "1.3.0",
+      "1.2.1",
+      "1.2.0"
+    ]
+  },
+  "jquery-mockjax": {
+    "filename": "jquery.mockjax.js",
+    "latest_version": "1.5.1",
+    "versions": [
+      "1.5.1"
+    ]
+  },
+  "jquery-mousewheel": {
+    "filename": "jquery.mousewheel.min.js",
+    "latest_version": "3.1.3",
+    "versions": [
+      "3.1.3",
+      "3.0.6"
+    ]
+  },
+  "jquery-nivoslider": {
+    "filename": "jquery.nivo.slider.pack.js",
+    "latest_version": "3.2",
+    "versions": [
+      "3.2",
+      "3.1"
+    ]
+  },
+  "jquery-noty": {
+    "filename": "jquery.noty.js",
+    "latest_version": "2.0.3",
+    "versions": [
+      "2.0.3"
+    ]
+  },
+  "jquery-placeholder": {
+    "filename": "jquery.placeholder.min.js",
+    "latest_version": "2.0.7",
+    "versions": [
+      "2.0.7"
+    ]
+  },
+  "jquery-powertip": {
+    "filename": "jquery.powertip.min.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0",
+      "1.1.0"
+    ]
+  },
+  "jquery-resize": {
+    "filename": "jquery.ba-resize.min.js",
+    "latest_version": "1.1",
+    "versions": [
+      "1.1"
+    ]
+  },
+  "jquery-scrollTo": {
+    "filename": "jquery.scrollTo.min.js",
+    "latest_version": "1.4.5",
+    "versions": [
+      "1.4.5",
+      "1.4.3",
+      "1.4.2"
+    ]
+  },
+  "jquery-scrolldepth": {
+    "filename": "jquery.scrolldepth.min.js",
+    "latest_version": "0.1.2",
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "jquery-smooth-scroll": {
+    "filename": "jquery.smooth-scroll.min.js",
+    "latest_version": "1.4.10",
+    "versions": [
+      "1.4.10"
+    ]
+  },
+  "jquery-sparklines": {
+    "filename": "jquery.sparkline.min.js",
+    "latest_version": "2.1.1",
+    "versions": [
+      "2.1.1",
+      "2.1.0",
+      "2.0.0"
+    ]
+  },
+  "jquery-textext": {
+    "filename": "jquery.textext.min.js",
+    "latest_version": "1.3.0",
+    "versions": [
+      "1.3.0"
+    ]
+  },
+  "jquery-throttle-debounce": {
+    "filename": "jquery.ba-throttle-debounce.min.js",
+    "latest_version": "1.1",
+    "versions": [
+      "1.1"
+    ]
+  },
+  "jquery-timeago": {
+    "filename": "jquery.timeago.min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0",
+      "1.0.2",
+      "0.11.4",
+      "0.9.3"
+    ]
+  },
+  "jquery-tools": {
+    "filename": "jquery.tools.min.js",
+    "latest_version": "1.2.7",
+    "versions": [
+      "1.2.7",
+      "1.2.6"
+    ]
+  },
+  "jquery-tubeplayer": {
+    "filename": "jquery.tubeplayer.min.js",
+    "latest_version": "1.1.6",
+    "versions": [
+      "1.1.6"
+    ]
+  },
+  "jquery-ui-map": {
+    "filename": "jquery.ui.map.js",
+    "latest_version": "3.0-rc1",
+    "versions": [
+      "3.0-rc1"
+    ]
+  },
+  "jquery-url-parser": {
+    "filename": "purl.min.js",
+    "latest_version": "2.3.1",
+    "versions": [
+      "2.3.1",
+      "2.2.1"
+    ]
+  },
+  "jquery-validate": {
+    "filename": "jquery.validate.min.js",
+    "latest_version": "1.11.1",
+    "versions": [
+      "1.11.1",
+      "1.11.0",
+      "1.10.0",
+      "1.9.0"
+    ]
+  },
+  "jquery.SPServices": {
+    "filename": "jquery.SPServices-2013.01.min.js",
+    "latest_version": "2013.01",
+    "versions": [
+      "2013.01",
+      "0.7.2",
+      "0.7.1a",
+      "0.7.0",
+      "0.6.2",
+      "0.6.1",
+      "0.6.0",
+      "0.5.8"
+    ]
+  },
+  "jquery.activity-indicator": {
+    "filename": "jquery.activity-indicator.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "jquery.address": {
+    "filename": "jquery.address.min.js",
+    "latest_version": "1.5",
+    "versions": [
+      "1.5"
+    ]
+  },
+  "jquery.ba-bbq": {
+    "filename": "jquery.ba-bbq.min.js",
+    "latest_version": "1.2.1",
+    "versions": [
+      "1.2.1"
+    ]
+  },
+  "jquery.blockUI": {
+    "filename": "jquery.blockUI.min.js",
+    "latest_version": "2.61.0-2013.06.06",
+    "versions": [
+      "2.61.0-2013.06.06"
+    ]
+  },
+  "jquery.caroufredsel": {
+    "filename": "jquery.carouFredSel.packed.js",
+    "latest_version": "6.1.0",
+    "versions": [
+      "6.1.0"
+    ]
+  },
+  "jquery.collapsible": {
+    "filename": "jquery.collapsible.js",
+    "latest_version": "1.2",
+    "versions": [
+      "1.2"
+    ]
+  },
+  "jquery.colorbox": {
+    "filename": "jquery.colorbox-min.js",
+    "latest_version": "1.4.3",
+    "versions": [
+      "1.4.3",
+      "1.3.27",
+      "1.3.20.1"
+    ]
+  },
+  "jquery.cycle": {
+    "filename": "jquery.cycle.all.min.js",
+    "latest_version": "2.9999.8",
+    "versions": [
+      "2.9999.8",
+      "2.99"
+    ]
+  },
+  "jquery.cycle2": {
+    "filename": "jquery.cycle2.min.js",
+    "latest_version": "20130409",
+    "versions": [
+      "20130409"
+    ]
+  },
+  "jquery.easytabs": {
+    "filename": "jquery.easytabs.min.js",
+    "latest_version": "3.2.0",
+    "versions": [
+      "3.2.0"
+    ]
+  },
+  "jquery.form": {
+    "filename": "jquery.form.js",
+    "latest_version": "3.32",
+    "versions": [
+      "3.32",
+      "3.24",
+      "3.20",
+      "3.09"
+    ]
+  },
+  "jquery.formalize": {
+    "filename": "jquery.formalize.min.js",
+    "latest_version": "1.2",
+    "versions": [
+      "1.2"
+    ]
+  },
+  "jquery.imagesloaded": {
+    "filename": "jquery.imagesloaded.min.js",
+    "latest_version": "2.1.0",
+    "versions": [
+      "2.1.0"
+    ]
+  },
+  "jquery.isotope": {
+    "filename": "jquery.isotope.min.js",
+    "latest_version": "1.5.25",
+    "versions": [
+      "1.5.25"
+    ]
+  },
+  "jquery.lazyload": {
+    "filename": "jquery.lazyload.min.js",
+    "latest_version": "1.8.4",
+    "versions": [
+      "1.8.4",
+      "1.8.3"
+    ]
+  },
+  "jquery.lifestream": {
+    "filename": "jquery.lifestream.min.js",
+    "latest_version": "0.3.7",
+    "versions": [
+      "0.3.7",
+      "0.3.4",
+      "0.3.2"
+    ]
+  },
+  "jquery.mask": {
+    "filename": "jquery.mask.min.js",
+    "latest_version": "0.9.0",
+    "versions": [
+      "0.9.0",
+      "0.7.5"
+    ]
+  },
+  "jquery.maskedinput": {
+    "filename": "jquery.maskedinput.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1"
+    ]
+  },
+  "jquery.nanoscroller": {
+    "filename": "jquery.nanoscroller.min.js",
+    "latest_version": "0.7.2",
+    "versions": [
+      "0.7.2",
+      "0.6.8"
+    ]
+  },
+  "jquery.payment": {
+    "filename": "jquery.payment.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "jquery.pep": {
+    "filename": "jquery.pep.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0"
+    ]
+  },
+  "jquery.pin": {
+    "filename": "jquery.pin.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "jquery.pjax": {
+    "filename": "jquery.pjax.min.js",
+    "latest_version": "1.7.0",
+    "versions": [
+      "1.7.0",
+      "1.2.0"
+    ]
+  },
+  "jquery.qrcode": {
+    "filename": "jquery.qrcode.min.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "jquery.selectboxit": {
+    "filename": "jquery.selectBoxIt.min.js",
+    "latest_version": "3.6.0",
+    "versions": [
+      "3.6.0",
+      "3.5.0",
+      "3.4.0",
+      "3.3.0",
+      "3.2.0",
+      "3.1.0",
+      "3.0.0",
+      "2.9.0",
+      "2.8.0",
+      "2.6.0",
+      "2.5.0",
+      "2.4.0",
+      "2.3.0",
+      "2.2.0"
+    ]
+  },
+  "jquery.shapeshift": {
+    "filename": "jquery.shapeshift.min.js",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0"
+    ]
+  },
+  "jquery.simpleWeather": {
+    "filename": "jquery.simpleWeather.min.js",
+    "latest_version": "2.3.0",
+    "versions": [
+      "2.3.0",
+      "2.2.0"
+    ]
+  },
+  "jquery.socialshareprivacy": {
+    "filename": "jquery.socialshareprivacy.min.js",
+    "latest_version": "1.4",
+    "versions": [
+      "1.4"
+    ]
+  },
+  "jquery.spritely": {
+    "filename": "jquery.spritely.min.js",
+    "latest_version": "0.6.5",
+    "versions": [
+      "0.6.5",
+      "0.6.1",
+      "0.6",
+      "0.5",
+      "0.4",
+      "0.3",
+      "0.2.1"
+    ]
+  },
+  "jquery.superlabels": {
+    "filename": "jquery.superLabels.min.js",
+    "latest_version": "2.0.3",
+    "versions": [
+      "2.0.3"
+    ]
+  },
+  "jquery.tablesorter": {
+    "filename": "jquery.tablesorter.min.js",
+    "latest_version": "2.9.1",
+    "versions": [
+      "2.9.1",
+      "2.5.2"
+    ]
+  },
+  "jquery.touchswipe": {
+    "filename": "jquery.touchSwipe.min.js",
+    "latest_version": "1.6.4",
+    "versions": [
+      "1.6.4",
+      "1.5.1"
+    ]
+  },
+  "jquery.transit": {
+    "filename": "jquery.transit.min.js",
+    "latest_version": "0.9.9",
+    "versions": [
+      "0.9.9",
+      "0.1.3"
+    ]
+  },
+  "jquery.wookmark": {
+    "filename": "jquery.wookmark.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "jqueryui": {
+    "filename": "jquery-ui.min.js",
+    "latest_version": "1.10.3",
+    "versions": [
+      "1.10.3",
+      "1.10.2",
+      "1.10.0",
+      "1.9.2",
+      "1.9.1",
+      "1.9.0",
+      "1.8.24",
+      "1.8.23",
+      "1.8.21",
+      "1.8.19",
+      "1.8.18",
+      "1.8.17",
+      "1.8.16",
+      "1.8.13"
+    ]
+  },
+  "jqueryui-touch-punch": {
+    "filename": "jquery.ui.touch-punch.min.js",
+    "latest_version": "0.2.2",
+    "versions": [
+      "0.2.2"
+    ]
+  },
+  "js-sequence-diagrams": {
+    "filename": "sequence-diagram-min.js",
+    "latest_version": "1.0.4",
+    "versions": [
+      "1.0.4",
+      "1.0.3"
+    ]
+  },
+  "js-signals": {
+    "filename": "js-signals.min.js",
+    "latest_version": "0.8.1",
+    "versions": [
+      "0.8.1",
+      "0.6.1",
+      "0.6",
+      "0.5.3"
+    ]
+  },
+  "js-url": {
+    "filename": "js-url.min.js",
+    "latest_version": "1.8.0",
+    "versions": [
+      "1.8.0",
+      "1.7.6",
+      "1.7.5"
+    ]
+  },
+  "jsPlumb": {
+    "filename": "jquery.jsPlumb-1.4.1-all-min.js",
+    "latest_version": "1.4.1",
+    "versions": [
+      "1.4.1"
+    ]
+  },
+  "json2": {
+    "filename": "json2.js",
+    "latest_version": "20121008",
+    "versions": [
+      "20121008",
+      "20110223"
+    ]
+  },
+  "json3": {
+    "filename": "json3.min.js",
+    "latest_version": "3.2.4",
+    "versions": [
+      "3.2.4",
+      "3.2.3",
+      "3.2.2",
+      "3.2.1",
+      "3.2.0",
+      "3.1.0"
+    ]
+  },
+  "jsoneditor": {
+    "filename": "jsoneditor-min.js",
+    "latest_version": "1.6.2",
+    "versions": [
+      "1.6.2"
+    ]
+  },
+  "jstimezonedetect": {
+    "filename": "jstz.min.js",
+    "latest_version": "1.0.4",
+    "versions": [
+      "1.0.4"
+    ]
+  },
+  "jsxgraph": {
+    "filename": "jsxgraphcore.js",
+    "latest_version": "0.97",
+    "versions": [
+      "0.97",
+      "0.96",
+      "0.95",
+      "0.94",
+      "0.93",
+      "0.92",
+      "0.91"
+    ]
+  },
+  "kerning.js": {
+    "filename": "kerning.min.js",
+    "latest_version": "0.2",
+    "versions": [
+      "0.2"
+    ]
+  },
+  "keymage": {
+    "filename": "keymage.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1",
+      "1.0.0"
+    ]
+  },
+  "kineticjs": {
+    "filename": "kinetic.min.js",
+    "latest_version": "4.3.1",
+    "versions": [
+      "4.3.1"
+    ]
+  },
+  "kiss.animate": {
+    "filename": "kiss.animate.min.js",
+    "latest_version": "0.1.2",
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "kiwi": {
+    "filename": "kiwi.min.js",
+    "latest_version": "0.2.1",
+    "versions": [
+      "0.2.1"
+    ]
+  },
+  "klass": {
+    "filename": "klass.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "knockout": {
+    "filename": "knockout-min.js",
+    "latest_version": "2.3.0",
+    "versions": [
+      "2.3.0",
+      "2.2.1",
+      "2.2.0",
+      "2.1.0",
+      "2.0.0",
+      "1.2.1"
+    ]
+  },
+  "knockout-validation": {
+    "filename": "knockout.validation.min.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "knockout.mapping": {
+    "filename": "knockout.mapping.js",
+    "latest_version": "2.3.5",
+    "versions": [
+      "2.3.5",
+      "2.3.4",
+      "2.3.3",
+      "2.3.2"
+    ]
+  },
+  "labjs": {
+    "filename": "LAB.min.js",
+    "latest_version": "2.0.3",
+    "versions": [
+      "2.0.3",
+      "2.0",
+      "1.2.0"
+    ]
+  },
+  "lazyload": {
+    "filename": "lazyload-min.js",
+    "latest_version": "2.0.3",
+    "versions": [
+      "2.0.3"
+    ]
+  },
+  "leaflet": {
+    "filename": "leaflet.js",
+    "latest_version": "0.6.2",
+    "versions": [
+      "0.6.2",
+      "0.6",
+      "0.5.1",
+      "0.5",
+      "0.4.5",
+      "0.3.1"
+    ]
+  },
+  "leapjs": {
+    "filename": "leap.min.js",
+    "latest_version": "0.1.2",
+    "versions": [
+      "0.1.2"
+    ]
+  },
+  "less.js": {
+    "filename": "less.min.js",
+    "latest_version": "1.3.3",
+    "versions": [
+      "1.3.3",
+      "1.3.1",
+      "1.3.0",
+      "1.2.1",
+      "1.1.5",
+      "1.1.3",
+      "1.0.41"
+    ]
+  },
+  "lettering.js": {
+    "filename": "jquery.lettering.min.js",
+    "latest_version": "0.6.1",
+    "versions": [
+      "0.6.1"
+    ]
+  },
+  "linq.js": {
+    "filename": "linq.min.js",
+    "latest_version": "2.2.0.2",
+    "versions": [
+      "2.2.0.2"
+    ]
+  },
+  "livescript": {
+    "filename": "livescript.min.js",
+    "latest_version": "1.1.1",
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "lodash.js": {
+    "filename": "lodash.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1",
+      "1.3.0",
+      "1.2.1",
+      "1.2.0",
+      "1.1.1",
+      "1.1.0",
+      "1.0.1",
+      "1.0.0-rc.3",
+      "1.0.0-rc.2",
+      "1.0.0-rc.1",
+      "1.0.0",
+      "0.10.0",
+      "0.9.2",
+      "0.9.1",
+      "0.9.0",
+      "0.8.2",
+      "0.8.1",
+      "0.8.0",
+      "0.7.0",
+      "0.6.1",
+      "0.6.0",
+      "0.5.2",
+      "0.5.1",
+      "0.5.0",
+      "0.4.2",
+      "0.4.1",
+      "0.4.0",
+      "0.3.2",
+      "0.3.1",
+      "0.3.0",
+      "0.2.2",
+      "0.2.1",
+      "0.2.0",
+      "0.1.0"
+    ]
+  },
+  "log4javascript": {
+    "filename": "log4javascript.js",
+    "latest_version": "1.4.3",
+    "versions": [
+      "1.4.3"
+    ]
+  },
+  "lunr.js": {
+    "filename": "lunr.min.js",
+    "latest_version": "0.3.3",
+    "versions": [
+      "0.3.3",
+      "0.3.0"
+    ]
+  },
+  "machina.js": {
+    "filename": "machina.min.js",
+    "latest_version": "0.3.4",
+    "versions": [
+      "0.3.4"
+    ]
+  },
+  "magnific-popup.js": {
+    "filename": "jquery.magnific-popup.min.js",
+    "latest_version": "0.8.9",
+    "versions": [
+      "0.8.9"
+    ]
+  },
+  "marked": {
+    "filename": "marked.min.js",
+    "latest_version": "0.2.9",
+    "versions": [
+      "0.2.9"
+    ]
+  },
+  "masonry": {
+    "filename": "masonry.pkgd.js",
+    "latest_version": "3.0.0",
+    "versions": [
+      "3.0.0",
+      "2.1.08",
+      "2.1.07",
+      "2.1.05",
+      "2.1.04",
+      "2.1.0"
+    ]
+  },
+  "mediaelement": {
+    "filename": "js/mediaelement.min.js",
+    "latest_version": "2.11.3",
+    "versions": [
+      "2.11.3"
+    ]
+  },
+  "messenger": {
+    "filename": "js/messenger.min.js",
+    "latest_version": "1.3.3",
+    "versions": [
+      "1.3.3",
+      "1.2.3"
+    ]
+  },
+  "meyer-reset": {
+    "filename": "reset.css",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0"
+    ]
+  },
+  "mo": {
+    "filename": "lang.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "mobilizejs": {
+    "filename": "mobilize.min.js",
+    "latest_version": "0.9",
+    "versions": [
+      "0.9"
+    ]
+  },
+  "modernizr": {
+    "filename": "modernizr.min.js",
+    "latest_version": "2.6.2",
+    "versions": [
+      "2.6.2",
+      "2.6.1",
+      "2.5.3",
+      "2.0.6",
+      "2.0.4",
+      "1.7"
+    ]
+  },
+  "moment.js": {
+    "filename": "moment.min.js",
+    "latest_version": "2.1.0",
+    "versions": [
+      "2.1.0",
+      "2.0.0",
+      "1.7.2",
+      "1.7.0",
+      "1.6.2"
+    ]
+  },
+  "mootools": {
+    "filename": "mootools-core-full-compat-yc.js",
+    "latest_version": "1.4.5",
+    "versions": [
+      "1.4.5",
+      "1.3.2"
+    ]
+  },
+  "mootools-more": {
+    "filename": "mootools-more-yui-compressed.js",
+    "latest_version": "1.4.0.1",
+    "versions": [
+      "1.4.0.1"
+    ]
+  },
+  "morris.js": {
+    "filename": "morris.min.js",
+    "latest_version": "0.4.2",
+    "versions": [
+      "0.4.2",
+      "0.4.0",
+      "0.3.3",
+      "0.3.0",
+      "0.2.9"
+    ]
+  },
+  "mousetrap": {
+    "filename": "mousetrap.min.js",
+    "latest_version": "1.2.2",
+    "versions": [
+      "1.2.2"
+    ]
+  },
+  "mustache.js": {
+    "filename": "mustache.min.js",
+    "latest_version": "0.7.2",
+    "versions": [
+      "0.7.2",
+      "0.7.0",
+      "0.5.0-dev",
+      "0.4.2",
+      "0.3.0"
+    ]
+  },
+  "ng-grid": {
+    "filename": "ng-grid.min.js",
+    "latest_version": "2.0.7",
+    "versions": [
+      "2.0.7"
+    ]
+  },
+  "ninjaui": {
+    "filename": "jquery.ninjaui.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1",
+      "1.0.0"
+    ]
+  },
+  "noUiSlider": {
+    "filename": "jquery.nouislider.min.js",
+    "latest_version": "3.1.1",
+    "versions": [
+      "3.1.1",
+      "2.5.5"
+    ]
+  },
+  "noisy": {
+    "filename": "jquery.noisy.min.js",
+    "latest_version": "1.1.1",
+    "versions": [
+      "1.1.1",
+      "1.1",
+      "1.0"
+    ]
+  },
+  "normalize": {
+    "filename": "normalize.css",
+    "latest_version": "2.1.0",
+    "versions": [
+      "2.1.0",
+      "2.0.1",
+      "0"
+    ]
+  },
+  "numeral.js": {
+    "filename": "numeral.min.js",
+    "latest_version": "1.4.5",
+    "versions": [
+      "1.4.5",
+      "1.4.1"
+    ]
+  },
+  "nvd3": {
+    "filename": "nv.d3.min.js",
+    "latest_version": "1.0.0-beta",
+    "versions": [
+      "1.0.0-beta",
+      "0.9"
+    ]
+  },
+  "nwmatcher": {
+    "filename": "nwmatcher.min.js",
+    "latest_version": "1.2.5",
+    "versions": [
+      "1.2.5"
+    ]
+  },
+  "ocanvas": {
+    "filename": "ocanvas.min.js",
+    "latest_version": "2.4.0",
+    "versions": [
+      "2.4.0",
+      "2.3.1",
+      "2.2.2",
+      "2.2.1",
+      "2.2.0",
+      "2.1.1",
+      "2.1.0",
+      "2.0.0",
+      "1.0"
+    ]
+  },
+  "opal": {
+    "filename": "opal.min.js",
+    "latest_version": "0.3.43",
+    "versions": [
+      "0.3.43"
+    ]
+  },
+  "opal-jquery": {
+    "filename": "opal-jquery.min.js",
+    "latest_version": "0.0.8",
+    "versions": [
+      "0.0.8"
+    ]
+  },
+  "opal-parser": {
+    "filename": "opal-parser.min.js",
+    "latest_version": "0.3.43",
+    "versions": [
+      "0.3.43"
+    ]
+  },
+  "openajax-hub": {
+    "filename": "OpenAjaxUnmanagedHub.min.js",
+    "latest_version": "2.0.7",
+    "versions": [
+      "2.0.7"
+    ]
+  },
+  "openlayers": {
+    "filename": "OpenLayers.js",
+    "latest_version": "2.12",
+    "versions": [
+      "2.12",
+      "2.11"
+    ]
+  },
+  "oz.js": {
+    "filename": "oz.min.js",
+    "latest_version": "2.5.1",
+    "versions": [
+      "2.5.1"
+    ]
+  },
+  "pagedown": {
+    "filename": "Markdown.Converter.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "paper.js": {
+    "filename": "paper.js",
+    "latest_version": "0.22",
+    "versions": [
+      "0.22"
+    ]
+  },
+  "parsley.js": {
+    "filename": "parsley.min.js",
+    "latest_version": "1.1.16",
+    "versions": [
+      "1.1.16",
+      "1.1.10",
+      "1.1.6"
+    ]
+  },
+  "path.js": {
+    "filename": "path.min.js",
+    "latest_version": "0.8.4",
+    "versions": [
+      "0.8.4"
+    ]
+  },
+  "photoswipe": {
+    "filename": "code.photoswipe.js",
+    "latest_version": "3.0.5",
+    "versions": [
+      "3.0.5"
+    ]
+  },
+  "pie": {
+    "filename": "PIE.js",
+    "latest_version": "1.0beta5",
+    "versions": [
+      "1.0beta5"
+    ]
+  },
+  "piecon": {
+    "filename": "piecon.min.js",
+    "latest_version": "0.2",
+    "versions": [
+      "0.2"
+    ]
+  },
+  "piwik": {
+    "filename": "piwik.js",
+    "latest_version": "1.11.1",
+    "versions": [
+      "1.11.1",
+      "1.11",
+      "1.10.1"
+    ]
+  },
+  "placeholder-shiv": {
+    "filename": "placeholder-shiv.js",
+    "latest_version": "0.2",
+    "versions": [
+      "0.2",
+      "0.1"
+    ]
+  },
+  "platform": {
+    "filename": "platform.min.js",
+    "latest_version": "0.4.0",
+    "versions": [
+      "0.4.0"
+    ]
+  },
+  "polymaps": {
+    "filename": "polymaps.min.js",
+    "latest_version": "2.5.1",
+    "versions": [
+      "2.5.1"
+    ]
+  },
+  "portal": {
+    "filename": "portal.min.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0rc3",
+      "1.0"
+    ]
+  },
+  "postal.js": {
+    "filename": "postal.min.js",
+    "latest_version": "0.8.4",
+    "versions": [
+      "0.8.4",
+      "0.8.3",
+      "0.8.2",
+      "0.7.3"
+    ]
+  },
+  "prefixfree": {
+    "filename": "prefixfree.min.js",
+    "latest_version": "1.0.7",
+    "versions": [
+      "1.0.7",
+      "1.0.6"
+    ]
+  },
+  "prettify": {
+    "filename": "prettify.js",
+    "latest_version": "r298",
+    "versions": [
+      "r298",
+      "r224",
+      "188.0.0"
+    ]
+  },
+  "processing.js": {
+    "filename": "processing-api.min.js",
+    "latest_version": "1.4.1",
+    "versions": [
+      "1.4.1",
+      "1.3.6",
+      "1.2.3",
+      "1.2.1"
+    ]
+  },
+  "proj4js": {
+    "filename": "proj4js-compressed.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "prototype": {
+    "filename": "prototype.js",
+    "latest_version": "1.7.1.0",
+    "versions": [
+      "1.7.1.0",
+      "1.7.0.0"
+    ]
+  },
+  "protovis": {
+    "filename": "protovis.min.js",
+    "latest_version": "3.3.1",
+    "versions": [
+      "3.3.1"
+    ]
+  },
+  "psd.js": {
+    "filename": "psd.min.js",
+    "latest_version": "0.4.5",
+    "versions": [
+      "0.4.5"
+    ]
+  },
+  "pubnub": {
+    "filename": "pubnub.min.js",
+    "latest_version": "3.5.3",
+    "versions": [
+      "3.5.3",
+      "3.4.6",
+      "3.4.5",
+      "3.4.2",
+      "3.1.2"
+    ]
+  },
+  "punycode": {
+    "filename": "punycode.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "pure": {
+    "filename": "pure-min.css",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "pusher": {
+    "filename": "pusher.min.js",
+    "latest_version": "1.12.5",
+    "versions": [
+      "1.12.5"
+    ]
+  },
+  "q.js": {
+    "filename": "q.min.js",
+    "latest_version": "0.9.2",
+    "versions": [
+      "0.9.2"
+    ]
+  },
+  "qooxdoo": {
+    "filename": "q.min.js",
+    "latest_version": "2.1.1",
+    "versions": [
+      "2.1.1",
+      "2.1",
+      "2.0.3"
+    ]
+  },
+  "qtip2": {
+    "filename": "jquery.qtip.min.js",
+    "latest_version": "2.1.1",
+    "versions": [
+      "2.1.1",
+      "2.1.0",
+      "2.0.1",
+      "2.0.0"
+    ]
+  },
+  "qunit": {
+    "filename": "qunit.min.js",
+    "latest_version": "1.11.0",
+    "versions": [
+      "1.11.0",
+      "1.10.0"
+    ]
+  },
+  "quo.js": {
+    "filename": "quo.js",
+    "latest_version": "2.3.1",
+    "versions": [
+      "2.3.1"
+    ]
+  },
+  "qwery": {
+    "filename": "qwery.js",
+    "latest_version": "3.4.1",
+    "versions": [
+      "3.4.1"
+    ]
+  },
+  "r2d3": {
+    "filename": "r2d3.min.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0",
+      "0.1.1"
+    ]
+  },
+  "rainbow": {
+    "filename": "js/rainbow.min.js",
+    "latest_version": "1.1.8",
+    "versions": [
+      "1.1.8"
+    ]
+  },
+  "raphael": {
+    "filename": "raphael-min.js",
+    "latest_version": "2.1.0",
+    "versions": [
+      "2.1.0",
+      "2.0.1",
+      "2.0.0",
+      "1.5.2"
+    ]
+  },
+  "ratchet": {
+    "filename": "ratchet.min.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "raven.js": {
+    "filename": "raven.min.js",
+    "latest_version": "1.0.8",
+    "versions": [
+      "1.0.8",
+      "1.0.7",
+      "1.0.6",
+      "1.0.5",
+      "1.0.4",
+      "1.0.3",
+      "1.0.0",
+      "0.6.0",
+      "0.5.3"
+    ]
+  },
+  "react": {
+    "filename": "react.min.js",
+    "latest_version": "0.3.3",
+    "versions": [
+      "0.3.3",
+      "0.3.2"
+    ]
+  },
+  "reactive-coffee": {
+    "filename": "reactive-coffee.min.js",
+    "latest_version": "0.0.1",
+    "versions": [
+      "0.0.1",
+      "0.0.0"
+    ]
+  },
+  "remoteStorage": {
+    "filename": "remoteStorage.min.js",
+    "latest_version": "0.6.9",
+    "versions": [
+      "0.6.9"
+    ]
+  },
+  "require-cs": {
+    "filename": "cs.js",
+    "latest_version": "0.4.2",
+    "versions": [
+      "0.4.2"
+    ]
+  },
+  "require-domReady": {
+    "filename": "domReady.js",
+    "latest_version": "2.0.1",
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "require-i18n": {
+    "filename": "i18n.js",
+    "latest_version": "2.0.1",
+    "versions": [
+      "2.0.1"
+    ]
+  },
+  "require-jquery": {
+    "filename": "require-jquery.min.js",
+    "latest_version": "0.25.0",
+    "versions": [
+      "0.25.0",
+      "0.24.0",
+      "0.23.0"
+    ]
+  },
+  "require-text": {
+    "filename": "text.js",
+    "latest_version": "2.0.5",
+    "versions": [
+      "2.0.5",
+      "2.0.3"
+    ]
+  },
+  "require.js": {
+    "filename": "require.min.js",
+    "latest_version": "2.1.8",
+    "versions": [
+      "2.1.8",
+      "2.1.6",
+      "2.1.5",
+      "2.1.4",
+      "2.1.1",
+      "2.0.6",
+      "2.0.5",
+      "2.0.2",
+      "1.0.8",
+      "1.0.7",
+      "1.0.5",
+      "1.0.2",
+      "1.0.1",
+      "0.27.1",
+      "0.26.0",
+      "0.24.0",
+      "0.23.0"
+    ]
+  },
+  "respond.js": {
+    "filename": "respond.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0",
+      "1.1.0"
+    ]
+  },
+  "responsive-nav.js": {
+    "filename": "responsive-nav.min.js",
+    "latest_version": "1.0.14",
+    "versions": [
+      "1.0.14"
+    ]
+  },
+  "restangular": {
+    "filename": "restangular.min.js",
+    "latest_version": "0.5.1",
+    "versions": [
+      "0.5.1",
+      "0.5.0",
+      "0.4.5",
+      "0.4.2"
+    ]
+  },
+  "retina.js": {
+    "filename": "retina.js",
+    "latest_version": "1.0.1",
+    "versions": [
+      "1.0.1"
+    ]
+  },
+  "reveal.js": {
+    "filename": "js/reveal.min.js",
+    "latest_version": "2.3",
+    "versions": [
+      "2.3",
+      "2.2",
+      "2.1"
+    ]
+  },
+  "rickshaw": {
+    "filename": "rickshaw.min.js",
+    "latest_version": "1.3.0",
+    "versions": [
+      "1.3.0",
+      "1.2.1",
+      "1.1.2",
+      "1.1.0"
+    ]
+  },
+  "roundabout": {
+    "filename": "jquery.roundabout.min.js",
+    "latest_version": "2.4.2",
+    "versions": [
+      "2.4.2"
+    ]
+  },
+  "rxjs": {
+    "filename": "rx.min.js",
+    "latest_version": "2.1.2",
+    "versions": [
+      "2.1.2",
+      "2.1.1",
+      "2.1.0",
+      "2.0.0"
+    ]
+  },
+  "rxjs-jquery": {
+    "filename": "rx.jquery.js",
+    "latest_version": "0.0.2",
+    "versions": [
+      "0.0.2"
+    ]
+  },
+  "salesforce-canvas": {
+    "filename": "canvas-all.min.js",
+    "latest_version": "27.0",
+    "versions": [
+      "27.0"
+    ]
+  },
+  "sammy.js": {
+    "filename": "sammy.min.js",
+    "latest_version": "0.7.4",
+    "versions": [
+      "0.7.4",
+      "0.7.2",
+      "0.7.1",
+      "0.7.0",
+      "0.6.3"
+    ]
+  },
+  "scion": {
+    "filename": "scion-min.js",
+    "latest_version": "0.0.3",
+    "versions": [
+      "0.0.3"
+    ]
+  },
+  "script.js": {
+    "filename": "script.min.js",
+    "latest_version": "1.3",
+    "versions": [
+      "1.3",
+      "1.1"
+    ]
+  },
+  "scriptaculous": {
+    "filename": "scriptaculous.js",
+    "latest_version": "1.9.0",
+    "versions": [
+      "1.9.0",
+      "1.8.3"
+    ]
+  },
+  "seajs": {
+    "filename": "sea.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "1.3.1"
+    ]
+  },
+  "select2": {
+    "filename": "select2.min.js",
+    "latest_version": "3.4.0",
+    "versions": [
+      "3.4.0",
+      "3.3.2",
+      "3.3.1",
+      "3.3.0",
+      "3.2"
+    ]
+  },
+  "selectivizr": {
+    "filename": "selectivizr-min.js",
+    "latest_version": "1.0.2",
+    "versions": [
+      "1.0.2"
+    ]
+  },
+  "showdown": {
+    "filename": "showdown.min.js",
+    "latest_version": "0.3.1",
+    "versions": [
+      "0.3.1"
+    ]
+  },
+  "shred": {
+    "filename": "shred.bundle.min.js",
+    "latest_version": "0.7.12",
+    "versions": [
+      "0.7.12"
+    ]
+  },
+  "simplecartjs": {
+    "filename": "simplecart.min.js",
+    "latest_version": "3.0.5",
+    "versions": [
+      "3.0.5"
+    ]
+  },
+  "sizzle": {
+    "filename": "sizzle.min.js",
+    "latest_version": "1.10.2",
+    "versions": [
+      "1.10.2",
+      "1.10.1",
+      "1.10.0",
+      "1.9.3",
+      "1.9.2",
+      "1.9.1",
+      "1.4.4"
+    ]
+  },
+  "sketch.js": {
+    "filename": "sketch.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "slabText": {
+    "filename": "jquery.slabtext.min.js",
+    "latest_version": "2.3",
+    "versions": [
+      "2.3",
+      "2.2"
+    ]
+  },
+  "slidesjs": {
+    "filename": "jquery.slides.min.js",
+    "latest_version": "3.0",
+    "versions": [
+      "3.0"
+    ]
+  },
+  "social-likes": {
+    "filename": null,
+    "latest_version": "0.0.0",
+    "versions": [
+      "2.0.8"
+    ]
+  },
+  "socket.io": {
+    "filename": "socket.io.min.js",
+    "latest_version": "0.9.16",
+    "versions": [
+      "0.9.16",
+      "0.9.10",
+      "0.9.6",
+      "0.9.5",
+      "0.8.4",
+      "0.8.2",
+      "0.7.0",
+      "0.6.2"
+    ]
+  },
+  "sockjs-client": {
+    "filename": "sockjs.min.js",
+    "latest_version": "0.3.4",
+    "versions": [
+      "0.3.4",
+      "0.3.2",
+      "0.2.1"
+    ]
+  },
+  "sopa": {
+    "filename": "stopcensorship.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  },
+  "speakingurl": {
+    "filename": "speakingurl.min.js",
+    "latest_version": "0.2.20",
+    "versions": [
+      "0.2.20",
+      "0.2.18",
+      "0.2.17",
+      "0.2.16",
+      "0.2.15",
+      "0.2.12"
+    ]
+  },
+  "spin.js": {
+    "filename": "spin.min.js",
+    "latest_version": "1.2.7",
+    "versions": [
+      "1.2.7",
+      "1.2.4"
+    ]
+  },
+  "spinejs": {
+    "filename": "spine.min.js",
+    "latest_version": "0.0.4",
+    "versions": [
+      "0.0.4"
+    ]
+  },
+  "stacktrace.js": {
+    "filename": "stacktrace.min.js",
+    "latest_version": "0.5.0",
+    "versions": [
+      "0.5.0"
+    ]
+  },
+  "stapes": {
+    "filename": "stapes.min.js",
+    "latest_version": "0.8.0",
+    "versions": [
+      "0.8.0",
+      "0.5.1",
+      "0.5"
+    ]
+  },
+  "stats.js": {
+    "filename": "Stats.js",
+    "latest_version": "r11",
+    "versions": [
+      "r11"
+    ]
+  },
+  "stellar.js": {
+    "filename": "jquery.stellar.min.js",
+    "latest_version": "0.6.2",
+    "versions": [
+      "0.6.2",
+      "0.6.0",
+      "0.5.0"
+    ]
+  },
+  "store.js": {
+    "filename": "store.min.js",
+    "latest_version": "1.3.7",
+    "versions": [
+      "1.3.7",
+      "1.3.6",
+      "1.1.1"
+    ]
+  },
+  "string.js": {
+    "filename": "string.min.js",
+    "latest_version": "1.2.0",
+    "versions": [
+      "1.2.0"
+    ]
+  },
+  "string_score": {
+    "filename": "string_score.min.js",
+    "latest_version": "0.1.10",
+    "versions": [
+      "0.1.10"
+    ]
+  },
+  "stylus": {
+    "filename": "stylus.min.js",
+    "latest_version": "0.32.1",
+    "versions": [
+      "0.32.1"
+    ]
+  },
+  "sugar": {
+    "filename": "sugar.min.js",
+    "latest_version": "1.3.9",
+    "versions": [
+      "1.3.9",
+      "1.3.8",
+      "1.3.7",
+      "1.3.6",
+      "1.3.5",
+      "1.3.4",
+      "1.3"
+    ]
+  },
+  "superfish": {
+    "filename": "superfish.min.js",
+    "latest_version": "1.7.3",
+    "versions": [
+      "1.7.3"
+    ]
+  },
+  "swfobject": {
+    "filename": "swfobject.js",
+    "latest_version": "2.2",
+    "versions": [
+      "2.2"
+    ]
+  },
+  "swipe": {
+    "filename": "swipe.min.js",
+    "latest_version": "2.0",
+    "versions": [
+      "2.0",
+      "1.0"
+    ]
+  },
+  "sylvester": {
+    "filename": "sylvester.js",
+    "latest_version": "0.1.3",
+    "versions": [
+      "0.1.3"
+    ]
+  },
+  "tablesort": {
+    "filename": "tablesort.min.js",
+    "latest_version": "1.6.1",
+    "versions": [
+      "1.6.1"
+    ]
+  },
+  "tabletop.js": {
+    "filename": "tabletop.min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "thorax": {
+    "filename": "thorax.js",
+    "latest_version": "2.0.0rc6",
+    "versions": [
+      "2.0.0rc6",
+      "2.0.0rc3",
+      "2.0.0rc2",
+      "2.0.0rc1"
+    ]
+  },
+  "three.js": {
+    "filename": "three.min.js",
+    "latest_version": "r58",
+    "versions": [
+      "r58",
+      "r57",
+      "r56",
+      "r55",
+      "r54",
+      "r53",
+      "r52",
+      "r51",
+      "r50",
+      "r49"
+    ]
+  },
+  "timelinejs": {
+    "filename": "js/storyjs-embed.js",
+    "latest_version": "2.24",
+    "versions": [
+      "2.24"
+    ]
+  },
+  "tinycon": {
+    "filename": "tinycon.min.js",
+    "latest_version": "0.5",
+    "versions": [
+      "0.5"
+    ]
+  },
+  "tinymce": {
+    "filename": "tiny_mce.js",
+    "latest_version": "3.5.8",
+    "versions": [
+      "3.5.8"
+    ]
+  },
+  "tinyscrollbar": {
+    "filename": "jquery.tinyscrollbar.min.js",
+    "latest_version": "1.81",
+    "versions": [
+      "1.81",
+      "1.66"
+    ]
+  },
+  "toastr.js": {
+    "filename": "js/toastr.min.js",
+    "latest_version": "1.3.1",
+    "versions": [
+      "latest",
+      "1.3.1"
+    ]
+  },
+  "topojson": {
+    "filename": "topojson.min.js",
+    "latest_version": "1.1.0",
+    "versions": [
+      "1.1.0"
+    ]
+  },
+  "treesaver": {
+    "filename": "treesaver-0.10.0.js",
+    "latest_version": "0.10.0",
+    "versions": [
+      "0.10.0"
+    ]
+  },
+  "tweenjs": {
+    "filename": "tween.min.js",
+    "latest_version": "0.4.1",
+    "versions": [
+      "0.4.1",
+      "0.3.0"
+    ]
+  },
+  "tweet": {
+    "filename": "jquery.tweet.js",
+    "latest_version": "2.1",
+    "versions": [
+      "2.1"
+    ]
+  },
+  "twitter-bootstrap": {
+    "filename": "js/bootstrap.min.js",
+    "latest_version": "2.3.2",
+    "versions": [
+      "2.3.2",
+      "2.3.1",
+      "2.3.0",
+      "2.2.2",
+      "2.2.1",
+      "2.1.1",
+      "2.1.0",
+      "2.0.4",
+      "2.0.3",
+      "2.0.2",
+      "2.0.1",
+      "2.0.0"
+    ]
+  },
+  "twitterlib.js": {
+    "filename": "twitterlib.min.js",
+    "latest_version": "1.0.8",
+    "versions": [
+      "1.0.8",
+      "0.9.0"
+    ]
+  },
+  "two.js": {
+    "filename": "two.min.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "typeahead.js": {
+    "filename": "typeahead.min.js",
+    "latest_version": "0.9.2",
+    "versions": [
+      "0.9.2",
+      "0.9.0"
+    ]
+  },
+  "underscore-contrib": {
+    "filename": "underscore-contrib.min.js",
+    "latest_version": "0.1.4",
+    "versions": [
+      "0.1.4",
+      "0.1.1",
+      "0.1.0"
+    ]
+  },
+  "underscore.js": {
+    "filename": "underscore-min.js",
+    "latest_version": "1.5.1",
+    "versions": [
+      "1.5.1",
+      "1.5.0",
+      "1.4.4",
+      "1.4.3",
+      "1.4.2",
+      "1.4.1",
+      "1.4.0",
+      "1.3.3",
+      "1.3.2",
+      "1.3.1-amdjs",
+      "1.3.1",
+      "1.3.0",
+      "1.2.4",
+      "1.2.3",
+      "1.2.2",
+      "1.2.1",
+      "1.1.7",
+      "1.1.6",
+      "1.1.5",
+      "1.1.4"
+    ]
+  },
+  "underscore.string": {
+    "filename": "underscore.string.min.js",
+    "latest_version": "2.3.1",
+    "versions": [
+      "2.3.1",
+      "2.3.0",
+      "2.0.0",
+      "1.1.6",
+      "1.1.4",
+      "1.1.3"
+    ]
+  },
+  "use.js": {
+    "filename": "use.js",
+    "latest_version": "0.2.0",
+    "versions": [
+      "0.2.0"
+    ]
+  },
+  "vertx": {
+    "filename": "vertxbus.min.js",
+    "latest_version": "1.3.0",
+    "versions": [
+      "1.3.0",
+      "1.2.3"
+    ]
+  },
+  "visibility.js": {
+    "filename": "visibility.min.js",
+    "latest_version": "0.6.2",
+    "versions": [
+      "0.6.2",
+      "0.6.1",
+      "0.6",
+      "0.5",
+      "0.2"
+    ]
+  },
+  "waypoints": {
+    "filename": "waypoints.min.js",
+    "latest_version": "2.0.2",
+    "versions": [
+      "2.0.2",
+      "1.1.6",
+      "1.1",
+      "1.0.2",
+      "1.0"
+    ]
+  },
+  "web-socket-js": {
+    "filename": "web_socket.min.js",
+    "latest_version": "1.0.0",
+    "versions": [
+      "1.0.0"
+    ]
+  },
+  "webfont": {
+    "filename": "webfont.js",
+    "latest_version": "1.3.0",
+    "versions": [
+      "1.3.0",
+      "1.1.2",
+      "1.1.1",
+      "1.1.0",
+      "1.0.31",
+      "1.0.19"
+    ]
+  },
+  "wysihtml5": {
+    "filename": "wysihtml5.min.js",
+    "latest_version": "0.3.0",
+    "versions": [
+      "0.3.0"
+    ]
+  },
+  "x-editable": {
+    "filename": "bootstrap-editable/js/bootstrap-editable.min.js",
+    "latest_version": "1.4.5",
+    "versions": [
+      "1.4.5",
+      "1.4.4"
+    ]
+  },
+  "xively-js": {
+    "filename": "xivelyjs.min.js",
+    "latest_version": "1.0.4",
+    "versions": [
+      "1.0.4",
+      "1.0.3"
+    ]
+  },
+  "xregexp": {
+    "filename": "xregexp-min.js",
+    "latest_version": "2.0.0",
+    "versions": [
+      "2.0.0"
+    ]
+  },
+  "xuijs": {
+    "filename": "xui.min.js",
+    "latest_version": "2.3.2",
+    "versions": [
+      "2.3.2",
+      "2.0.0"
+    ]
+  },
+  "yepnope": {
+    "filename": "yepnope.min.js",
+    "latest_version": "1.5.4",
+    "versions": [
+      "1.5.4",
+      "1.0.1",
+      "0.2.3"
+    ]
+  },
+  "yui": {
+    "filename": "yui-min.js",
+    "latest_version": "3.3.0",
+    "versions": [
+      "3.3.0"
+    ]
+  },
+  "zclip": {
+    "filename": "jquery.zclip.min.js",
+    "latest_version": "1.1.1",
+    "versions": [
+      "1.1.1"
+    ]
+  },
+  "zepto": {
+    "filename": "zepto.min.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0rc1",
+      "1.0",
+      "0.8",
+      "0.7",
+      "0.6"
+    ]
+  },
+  "zeroclipboard": {
+    "filename": "ZeroClipboard.min.js",
+    "latest_version": "1.1.7",
+    "versions": [
+      "1.1.7"
+    ]
+  },
+  "zxcvbn": {
+    "filename": "zxcvbn-async.js",
+    "latest_version": "1.0",
+    "versions": [
+      "1.0"
+    ]
+  }
+}

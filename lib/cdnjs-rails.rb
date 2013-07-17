@@ -1,0 +1,1 @@
+require 'cdnjs_rails'
